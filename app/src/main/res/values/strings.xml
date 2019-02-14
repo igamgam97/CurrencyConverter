@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="convert_from">Конвертировать из</string>
+    <string name="convert_to">Конвертировать в</string>
+    <string name="convert_value">конвертируемая величина</string>
+    <string name="result">результат</string>
+    <string name="user_has_lost_internet_connection_message">Нет доступа к интернету</string>
+    <string name="user_has_lost_internet_connection_and_dont_cashe_message">Нет закэшированных данных</string>
+    <string name="user_find_internet_connection_message">Интернет соединение востановлено</string>
+    <string name="user_has_lost_internet_and_dont_have_this_coeff">Информация о обменом курсе отсутствует</string>
+</resources>
