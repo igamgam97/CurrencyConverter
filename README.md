@@ -8,4 +8,4 @@ Android-приложение на языке программирования Ko
 
 Для получения курса валют используется https://www.currencyconverterapi.com/docs (иногда к сожалению падает)
 
-![](https://lh5.googleusercontent.com/Ou6xIn7M1U-Dxk5fbf8bpImO3h22C3ApLdGFfGVPr9UBM3gV7rtFQPrbccJcqvTzd-7SxCwCosxcfQul4WDMf19VvidliEy2sbXw1Rrw)
+https://vk.com/im?sel=137252115&z=photo137252115_456239241%2Fmail167461
